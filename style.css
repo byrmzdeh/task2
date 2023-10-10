@@ -1,0 +1,19 @@
+.img{
+    width: 100%;
+    height: 720px;
+    background-image: url("https://images.fineartamerica.com/images-medium-large/sunrise-with-birds-pisit-santikulluk.jpg");
+   background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 1.1;
+}
+.img h1{
+    color: white;
+    font-size: 63px;
+    letter-spacing: 1px;
+    text-align: center;
+    line-height: 89px;
+    word-spacing: 3px;
+}
